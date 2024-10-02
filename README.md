@@ -1,5 +1,7 @@
-# Índice
-***E um corriculo feito em html, css feito em umas das aulas de programaçao, o index.html mostra a estrutura do projeto enquanto o style.css apresenta a estrutura dele***
+## Índice
+E um corriculo feito em html, css feito em umas das aulas de programaçao, o index.html mostra a estrutura do projeto enquanto o style.css apresenta a estrutura dele***
+
+---
 
 ## Habilidades adiquiridas ou requisitadas para o projeto
 ***nao precisa de uma aprendizagem superior e um codigo simples que foi feito em sala de aula**
